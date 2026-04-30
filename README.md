@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdi2006m" alt="mahdi2006m" /></a> </p>
 
-- 🔭 I’m currently working on [Library](https://mahdi-libriry.onrender.com/)
+- 🔭 I’m currently working on [Ticketing project].()
 
-- 🌱 I’m currently learning **Django, DRF, Git, Docker, PostgreSQL**
+- 🌱 I’m currently learning **Django, DRF, Git, Docker, PostgreSQL, Linux**
 
-- 💬 Ask me about **Django, DRF**
+- 💬 Ask me about **Django, DRF, Git**
 
 - 📫 How to reach me **https://t.me/Mahdi_2006a**
 
